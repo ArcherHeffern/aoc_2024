@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 
-	ifstream f("1.in");
+	ifstream f("./data/1.in");
 	int num_lines;
 	vector<int> nums1;
 	vector<int> nums2;
