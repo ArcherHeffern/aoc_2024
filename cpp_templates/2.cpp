@@ -21,9 +21,9 @@ int main(int argc, char **argv)
 {
 
     string filename = argv[0];
-    filename = filename.substr(0, filename.find("."));
+    filename = filename.substr(2);
 
-    ifstream f(filename + (USE_TESTFILE ? ".test" : ".in"));
+    ifstream f("data/" + filename + (USE_TESTFILE ? ".test" : ".in"));
 
     int num_lines;
     vector < string > lines;
