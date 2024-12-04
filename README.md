@@ -1,7 +1,9 @@
 # Goal 
-Complete [AOC](https://adventofcode.com/) in C++  
+1. Complete [AOC](https://adventofcode.com/) in C++
+2. No external tools may be used to solve problems (GPT, grep, sed, etc)
+3. Code must be tasteful
 
-I have no competitive programming experience and I'm dyslexic. Lets see how well we do.
+I have no competitive programming experience. Lets see how well I do.
 
 "Time" is measured as time from the problem opening. I.E, problem 2 on day 1 actually took me 11:26-4:24 minutes.
 
