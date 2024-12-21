@@ -8,9 +8,13 @@ I have no competitive programming experience. Lets see how well I do.
 "Time" is measured as time from the problem opening. I.E, problem 2 on day 1 actually took me 11:26-4:24 minutes.
 
 # Status
+Days 6-21 were completed afterwards since I was sick with Bronchitis + Pneumonia and to interview prep.  
+
 Day|P1 Time|P1 Rank|P2 Time|P2 Rank
 ---|-------|-------|-------|-------
 1  |   4:24|   1604|  11:26|   3185
 2  |  36:39|  10806|1:36:18|  11664
 3  |  35:36|  11757|  41:12|   8030
 4  |  34:39|   7010|  42:02|   5248
+5  |  56:05|  10484|   >24h|  98682
+6-21|  >24h|    MAX|   >24h|    MAX
