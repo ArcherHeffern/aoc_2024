@@ -33,9 +33,10 @@ int main(int argc, char **argv)
 	lines.push_back(line);
     }
 
-    cout << "A: " << a(lines) << endl;
-    cout << "B: " << b(lines) << endl;
-
+    long long a_res = a(lines);
+    cout << "A: " << a_res << endl;
+    long long b_res = b(lines);
+    cout << "B: " << b_res << endl;
 }
 
 long long a(vector < string > lines)
